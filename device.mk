@@ -108,8 +108,8 @@ PRODUCT_PACKAGES += \
     memtrack.msm8916
 
 # Doze mode
-PRODUCT_PACKAGES += \
-    XiaomiDoze
+#PRODUCT_PACKAGES += \
+#    XiaomiDoze
 
 # FM
 PRODUCT_PACKAGES += \
